@@ -1,0 +1,8 @@
+{
+    "PATH": "Images",
+    "ATTENDANCE_FILE": "Attendance.csv",
+    "UNKNOWN_FACE_LABEL": "Unknown",
+    "FACE_RECOGNITION_THRESHOLD": 0.6,
+    "WELCOME_MESSAGE_DURATION": 3,
+    "TRACKING_THRESHOLD": 30
+}

@@ -1,0 +1,5 @@
+mask_path: 'mask_1920_1080.png'
+video_path: 'parking_1920_1080_loop.mp4'
+processing_step: 30
+empty_threshold: 3000
+diff_threshold: 0.4
